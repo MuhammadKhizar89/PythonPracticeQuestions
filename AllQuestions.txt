@@ -136,4 +136,4 @@ Write a function that accepts a list of strings and performs Bag of words and co
 https://en.wikipedia.org/wiki/Bag-of-words_model
 Write a dummy program that can perform login and registration using a menu driven program
 Write a program that accepts neighbors(set of 2D co-ordinates) and a point(single 2D co-ordinate) and tells nearest neighbor(in terms of euclidean distance)
-Write a function that accepts a number and returns it’s factorial. You can not use any loop.
+Write a function that accepts a number and returns it’s factorial. You can not use any loop
